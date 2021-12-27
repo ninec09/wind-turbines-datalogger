@@ -1,0 +1,38 @@
+sd card
+gnd - gnd
+vcc - 3.3v
+mıso - a6
+mosi - a7
+sck - a5
+cs - b0
+-------
+dht 11
+signal - a0
+vcc - 3.3v
+gnd - gnd
+--------
+Bluetooth
+vcc-5v
+gnd-gnd
+txd-a3
+rxd-a2
+---------
+acs712
+vout-a1
+gnd-gnd
+vcc-3.3v
+---------
+led
++bck-b3
+gnd-gnd+
+---------
+anemometre
++bck-b1
+gnd-gnd
+-----------
+sda-pb7
+scl-pb6
+vcc-+3v
+gnd-gnd
+
+
